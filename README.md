@@ -11,6 +11,7 @@
 ## Реализация
 Серверная часть приложения написана при помощи Java и Spring Framework. Для БД используется MongoDB.
 ## Инструкция к запуску
+Замечание: действия по запуску акутальны для IntelliJ IDEA, для других IDE возможны отличия.
 1. Клонировать проект на локальный компьютер и настроить maven для папок server и model
 1. Запустить на выполнение в IDE файл <blockquote>..\server\src\main\java\panknas\shapes\Sem5Application.java</blockquote>
 2. Открыть приложение в браузере. Пример: <blockquote>http://localhost:8080/</blockquote>
