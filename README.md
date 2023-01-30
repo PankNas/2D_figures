@@ -11,7 +11,7 @@
 ## Реализация
 Серверная часть приложения написана при помощи Java и Spring Framework. Для БД используется MongoDB.
 ## Инструкция к запуску
-1. Клонировать проект на локальный компьютер и настроить maven для папок gui и model
+1. Клонировать проект на локальный компьютер и настроить maven для папок server и model
 1. Запустить на выполнение в IDE файл <blockquote>..\server\src\main\java\panknas\shapes\Sem5Application.java</blockquote>
 2. Открыть приложение в браузере. Пример: <blockquote>http://localhost:8080/</blockquote>
 Номер хоста определяется при компиляции проекта. Пример: <blockquote>Tomcat initialized with port(s): 8080 (http)</blockquote>
